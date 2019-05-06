@@ -1,5 +1,4 @@
 # ArrayCardio-D1
-# DrumKeys
 
 > A simple javascript higher order fucntion exercises. This was created as a tutorial practice to understand vanilla Javascript.
 
